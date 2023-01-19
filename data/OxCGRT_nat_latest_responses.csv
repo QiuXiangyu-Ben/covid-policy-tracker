@@ -8607,18 +8607,15 @@ Georgia,GEO,20210118,20210629,C6: Stay at home requirements,2,1,"Between the hou
 Georgia,GEO,20210118,20210224,C7: Restrictions on internal movement,2,1,"Inter-city regular transportation of passengers, including by railway, bus, and mini-bus is not permitted countrywide.     Travel in light vehicles (including taxis) is permissible.    https://web.archive.org/web/20210130011411/https://ge.usembassy.gov/covid-19-information-on-georgia/"
 Georgia,GEO,20210130,20210228,C1: School closing,2,1,"Private and public kindergartens are closed. All middle schools, and schools of vocational and higher education (except medical education programs), continue online learning.  Link: https://web.archive.org/web/20210129020507/https://www.stopcov.ge/en/shezgudvebi "
 Georgia,GEO,20210205,20210621,C8: International travel controls,2,,"The Government of Georgia has urged airlines to deny boarding to foreign nationals if they have no negative PCR test results administrated in the past 72 hours or a document evidencing a full spectrum of COVID-19 vaccine. There are in place health screening procedures at airports and other ports of entry. All passengers, who have travelled to the United Kingdom of Great Britain and Northern Ireland within the last 14 days will be placed in mandatory quarantine at personal expense for 12 days upon entry.   Link: https://archive.fo/9JiCX  "
-Georgia,GEO,20210215,20210221,E1: Income support,0,,
-Georgia,GEO,20210215,20210221,E2: Debt/contract relief,0,,
-Georgia,GEO,20210222,20210621,E1: Income support,1,0,"1,200-GEL assistance for individuals who have lost their employment: Formal sector employees who will temporarily lose their jobs will receive assistance in the amount of 200 GEL for six months starting from January 2020. Estimated number of beneficiaries: 125,000 individuals. Budget: 150 million GEL.    https://web.archive.org/web/20210302140540/https://stopcov.gov.ge/en/daxmarebebi"
-Georgia,GEO,20210222,20210301,E2: Debt/contract relief,1,,"Utility subsidies: We will subsidize utility bills(corresponding to the consumption of up to 200 kWh / m3) over a period of four months(November-February). Estimated number of beneficiaries: 1.1 million households. Budget: 270 million GEL;    Possibility of deferment of bank loans for persons employed in the outlets or facilities whose activities will be restricted.    https://web.archive.org/web/20210302140540/https://stopcov.gov.ge/en/daxmarebebi"
-Georgia,GEO,20210222,20210301,H2: Testing policy,1,,
+Georgia,GEO,20210215,20210621,E1: Income support,0,,
+Georgia,GEO,20210215,20210301,E2: Debt/contract relief,0,,
+Georgia,GEO,20210222,,H2: Testing policy,1,,
 Georgia,GEO,20210222,20210301,H6: Facial Coverings,2,1,"Face masks must be worn in all enclosed public spaces, including taxis and public transportation.    https://web.archive.org/web/20210226155419/https://ge.usembassy.gov/covid-19-information-on-georgia/"
 Georgia,GEO,20210224,20210812,C5: Close public transport,0,,"Municipal transport will operate on weekends as well.    https://web.archive.org/web/20210302132808/https://stopcov.gov.ge/en/News/Article/Irakli_Garibashvili_Presents_Plan_for_Gradually_Easing_Restrictions"
 Georgia,GEO,20210225,20210301,C7: Restrictions on internal movement,0,,"Intercity transport will resume tomorrow, February 25.    https://web.archive.org/web/20210302132808/https://stopcov.gov.ge/en/News/Article/Irakli_Garibashvili_Presents_Plan_for_Gradually_Easing_Restrictions"
 Georgia,GEO,20210301,20210914,C1: School closing,0,,"Preschool educational facilities, both public and private, will resume on March 1, with obligatory testing for 20% of the staff every other week.  Starting on March 1, schools of higher and vocational education will be able to resume clinical, practical, and laboratory activities and to hold in-person examinations.    https://web.archive.org/web/20210302132808/https://stopcov.gov.ge/en/News/Article/Irakli_Garibashvili_Presents_Plan_for_Gradually_Easing_Restrictions"
 Georgia,GEO,20210302,20210629,C7: Restrictions on internal movement,2,1,"The nationwide curfew, between 9 PM and 5 AM, is still in place. Intercity transport resumed on 25th of February.  Link: https://archive.fo/wip/Mg0xd  "
 Georgia,GEO,20210302,20210621,E2: Debt/contract relief,0,,"A budget of 270 million GEL for 1.1 million households for utility bills was available between November 2020 and February 2021.  Link: https://web.archive.org/web/20210302140540/https://stopcov.gov.ge/en/daxmarebebi "
-Georgia,GEO,20210302,,H2: Testing policy,2,,"State-funded proactive testing of symptomatic patients and systemic groups continues (testing of teachers will be carried out once every 2 weeks).  Link: https://archive.fo/j9UJT  "
 Georgia,GEO,20210302,20210621,H6: Facial Coverings,3,1,"Face masks must be worn in all enclosed public spaces, including taxis and public transportation. Violators of face musk rules are subject to a 20 GEL (about 6 USD) fine. There are some exceptions for children under 6, people with disabilities, or who have health problems that prevent them from wearing a face covering.  Link: https://archive.fo/FJtFx "
 Georgia,GEO,20210315,20210323,H7: Vaccination policy,1,1,"On 15th of March, started the vaccination of health workers with AstraZeneca vaccine.   Link: https://web.archive.org/web/20210328092056/https://agenda.ge/en/news/2021/797"
 Georgia,GEO,20210315,20210629,H8: Protection of elderly people,2,1,"There is in place a recommendation for people over the age of 70 to remain at home. A nationwide curfew, between 9 PM and 5 AM and.  Link: https://web.archive.org/web/20210315064255/https://archive.fo/wip/LiNtX, https://web.archive.org/web/20210315060623/https://archive.fo/FJtFx and  https://web.archive.org/web/20210302132808/https://stopcov.gov.ge/en/News/Article/Irakli_Garibashvili_Presents_Plan_for_Gradually_Easing_Restrictions "
@@ -9011,30 +9008,24 @@ Gambia,GMB,20210804,20210919,H7: Vaccination policy,5,1,"Vaccination has been ex
 Gambia,GMB,20210804,20210809,H8: Protection of elderly people,0,,"There was no information found particularly on the protection of the elderly from Covid 19, however, all general preventive measures apply to them. The elderly were a priority group at the onset of vaccination. http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/"
 Gambia,GMB,20210807,20220508,V2: Vaccine Availability,2,,"Vaccinations being offered to anyone aged 18+.  http://web.archive.org/web/20211118131541/https://www.moh.gov.gm/wp-content/uploads/2021/08/GMB-COVID-19-Situational-Report-2021-7th_9th-August-No-353-2.pdf"
 Gambia,GMB,20210807,20210902,V3: Vaccine Financial Support,5,,"vaccines are free.     http://web.archive.org/web/20211118131541/https://www.moh.gov.gm/wp-content/uploads/2021/08/GMB-COVID-19-Situational-Report-2021-7th_9th-August-No-353-2.pdf"
-Gambia,GMB,20210810,20210919,C3: Cancel public events,1,1,
-Gambia,GMB,20210810,20210919,C4: Restrictions on gatherings,3,0,
-Gambia,GMB,20210810,20210919,C5: Close public transport,1,1,
-Gambia,GMB,20210810,20210919,C6: Stay at home requirements,1,1,
-Gambia,GMB,20210810,20210919,C7: Restrictions on internal movement,1,1,
-Gambia,GMB,20210810,20211210,C8: International travel controls,1,,
-Gambia,GMB,20210810,,E2: Debt/contract relief,0,,
-Gambia,GMB,20210810,20210919,H1: Public information campaigns,1,1,
-Gambia,GMB,20210810,20210919,H2: Testing policy,2,,
+Gambia,GMB,20210810,20210927,C3: Cancel public events,1,1,
+Gambia,GMB,20210810,20210927,C4: Restrictions on gatherings,3,0,
+Gambia,GMB,20210810,,C5: Close public transport,1,1,
+Gambia,GMB,20210810,,C6: Stay at home requirements,1,1,
+Gambia,GMB,20210810,,C7: Restrictions on internal movement,1,1,
+Gambia,GMB,20210810,20210919,C8: International travel controls,1,,
+Gambia,GMB,20210810,20210919,E2: Debt/contract relief,0,,
+Gambia,GMB,20210810,,H1: Public information campaigns,1,1,
+Gambia,GMB,20210810,,H2: Testing policy,2,,
 Gambia,GMB,20210810,20210919,H6: Facial Coverings,0,,
-Gambia,GMB,20210810,20210919,H8: Protection of elderly people,1,1,
+Gambia,GMB,20210810,,H8: Protection of elderly people,1,1,
 Gambia,GMB,20210903,,C1: School closing,0,,"Schools full open.  See in UNESCO website, last updated September 19th, 2021 archived: http://web.archive.org/web/20210920140457/https://en.unesco.org/covid19/educationresponse"
 Gambia,GMB,20210903,20220508,V3: Vaccine Financial Support,5,,"vaccines are free    http://web.archive.org/web/20211118125909/https://www.moh.gov.gm/wp-content/uploads/2021/09/GMB-COVID-19-Situational-Report_2021_1st_3rd_September_No-365-1.pdf"
 Gambia,GMB,20210920,,C2: Workplace closing,0,,"workplaces are open and can function as normal  https://web.archive.org/web/20210902222941/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/"
-Gambia,GMB,20210920,20210927,C3: Cancel public events,0,,"no data seen that recommends cancellation of public events    https://web.archive.org/web/20210902222941/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/"
-Gambia,GMB,20210920,20210927,C4: Restrictions on gatherings,0,,"no restrictions noted   http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/  "
-Gambia,GMB,20210920,,C5: Close public transport,0,,"No measures noted  http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/"
-Gambia,GMB,20210920,,C6: Stay at home requirements,0,,"People are allowed to move freely as long as they were face masks    http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/"
-Gambia,GMB,20210920,,C7: Restrictions on internal movement,0,,"People are allowed to move freely as long as they were face masks    http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/"
-Gambia,GMB,20210920,,H1: Public information campaigns,2,1,"Information on Covid 19 prevention is widely available on the ministry of health’s website in several languages. http://web.archive.org/web/20210809080953/https://www.moh.gov.gm/covid-19-report/  "
-Gambia,GMB,20210920,,H2: Testing policy,3,,"Tests are available at a cost for all interested individuals. http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/ "
+Gambia,GMB,20210920,20211210,C8: International travel controls,1,,"a negative covid test is required, taken no more than 72 hours before entry   https://web.archive.org/web/20210927222831/https://www.gov.uk/foreign-travel-advice/the-gambia/entry-requirements"
+Gambia,GMB,20210920,,E2: Debt/contract relief,0,,"no evidence of debt relief noted  https://web.archive.org/web/20210908020533/https://www.moh.gov.gm/press-release/"
 Gambia,GMB,20210920,20210927,H6: Facial Coverings,4,1," https://web.archive.org/web/20210718223052/https://www.moh.gov.gm/wp-content/uploads/2021/07/GMB_COVID-19_Situational_Report_2021_13th_July_No_342.pdf  http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/  "
 Gambia,GMB,20210920,20210927,H7: Vaccination policy,4,1,"currently vaccinating people more than 18 years with Janssen & Janssen, Sinopharm, and AstraZeneca    no information about group prioritization. will code as a 4     https://web.archive.org/web/20210718223052/https://www.moh.gov.gm/wp-content/uploads/2021/07/GMB_COVID-19_Situational_Report_2021_13th_July_No_342.pdf  http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/  "
-Gambia,GMB,20210920,,H8: Protection of elderly people,0,,"no measures noted     https://web.archive.org/web/20210718223052/https://www.moh.gov.gm/wp-content/uploads/2021/07/GMB_COVID-19_Situational_Report_2021_13th_July_No_342.pdf  http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/  "
 Gambia,GMB,20210928,20211018,C3: Cancel public events,2,1,"http://web.archive.org/web/20211018224946/https://www.garda.com/crisis24/news-alerts/525171/gambia-covid-19-related-entry-measures-remain-largely-unchanged-nationwide-as-of-sept-16-update-29"
 Gambia,GMB,20210928,20211024,C4: Restrictions on gatherings,3,1,"http://web.archive.org/web/20211018224946/https://www.garda.com/crisis24/news-alerts/525171/gambia-covid-19-related-entry-measures-remain-largely-unchanged-nationwide-as-of-sept-16-update-29"
 Gambia,GMB,20210928,,H6: Facial Coverings,3,1,"http://web.archive.org/web/20211018224946/https://www.garda.com/crisis24/news-alerts/525171/gambia-covid-19-related-entry-measures-remain-largely-unchanged-nationwide-as-of-sept-16-update-29"
