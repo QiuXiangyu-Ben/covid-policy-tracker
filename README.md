@@ -23,7 +23,7 @@ Our data is made available free to use for any purpose under a Creative Commons 
 
 ## The database
 
-OxCGRT collects publicly available information on 21 indicators of government response. This information is collected by a team of over 200 volunteers from the Oxford community and is updated continuously.
+OxCGRT collects publicly available information on 24 indicators of government response. This information is collected by a team of over 200 volunteers from the Oxford community and is updated continuously.
 
 Alongside our own data, we also include statistics on the number of reported Covid-19 cases and deaths in each country. These are taken from the [JHU CSSE data repository](https://github.com/CSSEGISandData/COVID-19) for all countries and the US States. We also include vaccination data in each jurisdiction – using national-level data from [Our World in Data](https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/vaccinations.csv) (the percentage of people fully vaccinated) and a range of other sources for subnational vaccination data in [Australia](https://vaccinedata.covid19nearme.com.au/data/air_residence.json),  [Brazil](https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-states.csv), [Great Britain](https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/vaccinations.csv), and the [United States](https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/vaccinations.csv).
  
